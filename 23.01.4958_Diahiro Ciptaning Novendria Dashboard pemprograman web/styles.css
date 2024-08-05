@@ -1,0 +1,22 @@
+body {
+    background-color: #002366;
+}
+
+.card-header {
+    background-color: #000080;
+    border-bottom: 2px solid #ffffff;
+}
+
+.card-footer {
+    background-color: #000080;
+    color: #ffffff;
+}
+
+.table th,
+.table td {
+    background-color: #f8f9fa;
+}
+
+.table thead th {
+    background-color: #d4d9df;
+}

@@ -1,0 +1,24 @@
+body {
+    background-color: #000080; /* Navy background color */
+}
+
+.card {
+    background-color: #000080; /* Navy background color */
+}
+
+.card-body {
+    background-color: #000080; /* Navy background color */
+}
+
+.form-group label {
+    color: white;
+}
+
+.table {
+    background-color: white;
+    color: black;
+}
+
+.table th, .table td {
+    color: black;
+}
